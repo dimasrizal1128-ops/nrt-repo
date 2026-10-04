@@ -1,0 +1,8 @@
+{
+  "name": "NRT Official Repository",
+  "version": "1.0",
+  "packages": {
+    "hello": "packages/hello/package.json",
+    "http": "packages/http/package.json"
+  }
+}
