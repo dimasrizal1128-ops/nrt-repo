@@ -1,8 +1,12 @@
 {
   "name": "hello",
-  "version": "1.0.0",
-  "description": "A simple NRT test package.",
+  "version": "1.1.0",
+  "description": "Functional NRT test package.",
+  "type": "python",
+  "entry": "hello.py",
   "files": [
-    "hello.txt"
+    "hello.py",
+    "hello.txt",
+    "run.bat"
   ]
 }
