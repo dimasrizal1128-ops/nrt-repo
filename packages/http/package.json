@@ -1,8 +1,12 @@
 {
   "name": "http",
-  "version": "1.0.0",
-  "description": "HTTP server package placeholder for the NASM Server OS project.",
+  "version": "1.1.0",
+  "description": "Functional Python HTTP server package for NRT.",
+  "type": "python",
+  "entry": "server.py",
   "files": [
-    "README.txt"
+    "server.py",
+    "README.txt",
+    "run.bat"
   ]
 }
