@@ -1,0 +1,2 @@
+Hello from NRT!
+This package was installed from the official NRT GitHub repository.
